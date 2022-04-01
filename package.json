@@ -1,0 +1,32 @@
+{
+  "name": "motionavatar",
+  "version": "1.0.0",
+  "description": "Motion Avatar is for generating Random Avatar using Text and Colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prosany/MotionAvatar.git"
+  },
+  "keywords": [
+    "Avatar",
+    "Theme",
+    "Color",
+    "Text",
+    "Profile Picture",
+    "Profile Picture Generator",
+    "Avatar Generator",
+    "Avatar Generator using text and color"
+  ],
+  "author": "https://github.com/prosany",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prosany/MotionAvatar/issues"
+  },
+  "homepage": "https://github.com/prosany/MotionAvatar#readme",
+  "dependencies": {
+    "canvas": "^2.9.1"
+  }
+}
