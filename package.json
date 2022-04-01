@@ -1,5 +1,5 @@
 {
-  "name": "motionavatar",
+  "name": "avatar",
   "version": "1.0.0",
   "description": "Motion Avatar is for generating Random Avatar using Text and Colors",
   "main": "index.js",
